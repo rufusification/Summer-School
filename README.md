@@ -222,6 +222,7 @@ sudo yum install -y libsqlite3x-devel.x86_64
 ### 7. R
 
 **Windows**
+
 [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 
 **MacOS**
@@ -231,6 +232,7 @@ brew install r
 
 **Linux**
 __Ubuntu/Debian based:__
+
 [https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04)
 
 __Fedora:__
@@ -246,6 +248,7 @@ sudo yum install -y R
 ### 8. Java
 
 **Windows**
+
 [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 
 **MacOS**
