@@ -142,15 +142,166 @@ snap package:
 sudo snap install microk8s --classic
 ```
 
-### 4. VSCode, python, SQLLite3, R, nextflow
+### 4. VSCode
+
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Install the `sftp` plugin:\
+[https://code.visualstudio.com/docs/editor/extension-gallery](https://code.visualstudio.com/docs/editor/extension-gallery)
+
+Configuration of `sftp` plugin:
+```
+{
+    "name": "aws-server",
+    "privateKeyPath": "~/.ssh/id_rsa",
+    "username": "ubuntu",
+    "host": "your-host-here",
+    "protocol": "sftp",
+    "port": 22,
+    "remotePath": "/home/ubuntu/contra-nextflow",
+    "uploadOnSave":true,
+    "syncOption.delete":true
+}
+```
+### 5. Python
+
+**Windows**
+```
+https://www.python.org/downloads/windows/
+```
+
+**MacOS**
+```
+brew install python
+```
+
+**Linux**
+__Ubuntu/Debian based:__
+```
+sudo apt install -y python-dev
+```
+
+__Fedora:__
+```
+sudo dnf install -y python-devel
+```
+
+__Centos/Red Hat:__
+```
+sudo yum install -y python python-devel
+```
+
+### 6. SQLLite3
 
 **Windows**
 
+[https://sqlite.org/download.html](https://sqlite.org/download.html)
+
 **MacOS**
+```
+brew install sqlite
+```
 
 **Linux**
 
-### GitHub Account
+__Ubuntu/Debian based:__
+```
+sudo apt install -y sqlite3
+```
+
+__Fedora:__
+```
+sudo dnf install sqlite
+```
+
+__Centos/Red Hat:__
+```
+sudo yum install -y libsqlite3x-devel.x86_64
+```
+
+### 7. R
+
+**Windows**
+[https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
+
+**MacOS**
+```
+brew install r
+```
+
+**Linux**
+__Ubuntu/Debian based:__
+[https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04)
+
+__Fedora:__
+```
+sudo dnf install -y R
+```
+
+__Centos/Red Hat:__
+```
+sudo yum install -y R
+```
+
+### 8. Java
+
+**Windows**
+[https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
+
+**MacOS**
+```
+brew cask install java8
+```
+
+**Linux**
+__Ubuntu/Debian based:__
+```
+sudo apt install -y openjdk-8-jdk
+```
+
+__Fedora:__
+```
+dnf install java-1.8.0-openjdk
+```
+
+__Centos/Red Hat:__
+```
+sudo yum install java-1.8.0-openjdk-devel
+```
+
+### 9. NextFlow
+
+**Windows**
+Docker image will be provided.
+
+**MacOS**
+```
+brew tap homebew/science
+brew install nextflow
+```
+
+**Linux**
+__Ubuntu/Debian based:__
+```
+sudo apt install -y sqlite3
+```
+
+__Fedora:__
+```
+sudo dnf install sqlite
+```
+
+__Centos/Red Hat:__
+```
+sudo yum install -y libsqlite3x-devel.x86_64
+```
+
+### 10. GitHub Account
 
 Create an account on GitHub: 
 [https://github.com/](https://github.com/)
+
+### 11. Google Account
+
+Create an account on Google:
+[https://support.google.com/accounts/answer/27441?hl=en](https://support.google.com/accounts/answer/27441?hl=en)
