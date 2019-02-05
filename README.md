@@ -279,9 +279,9 @@ sudo yum install java-1.8.0-openjdk-devel
 Docker image will be provided.
 
 **MacOS / Linux**
-```
-(https://www.nextflow.io/docs/latest/getstarted.html)[https://www.nextflow.io/docs/latest/getstarted.html]
-```
+
+[https://www.nextflow.io/docs/latest/getstarted.html](https://www.nextflow.io/docs/latest/getstarted.html)
+
 
 ### 10. GitHub Account
 
