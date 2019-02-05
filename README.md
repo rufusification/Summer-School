@@ -60,6 +60,9 @@ sudo yum install -y git
 
 ### 3. AWSCLI
 
+In order to generate your AWS keys:\
+[https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html#Using_CreateAccessKey](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html#Using_CreateAccessKey)
+
 **Windows**
 
 [https://s3.amazonaws.com/aws-cli/AWSCLI64PY3.msi](https://s3.amazonaws.com/aws-cli/AWSCLI64PY3.msi)
