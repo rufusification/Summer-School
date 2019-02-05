@@ -7,7 +7,7 @@ kubectl create -f https://raw.githubusercontent.com/kubernetes/dashboard/master/
 kubectl get pod --namespace=kubesystem
 ```
 
-Put the name of the dashbord into command: \
+Put the name of the dashbord from the previous one into command: 
 ```
 kubectl port-forward kubernetes-dashboard-blablabla 8443:8443 --namespace=kube-system
 ```
