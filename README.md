@@ -253,6 +253,7 @@ sudo yum install -y R
 
 **MacOS**
 ```
+brew tap caskroom/versions
 brew cask install java8
 ```
 
@@ -277,26 +278,9 @@ sudo yum install java-1.8.0-openjdk-devel
 **Windows**
 Docker image will be provided.
 
-**MacOS**
+**MacOS / Linux**
 ```
-brew tap homebew/science
-brew install nextflow
-```
-
-**Linux**
-__Ubuntu/Debian based:__
-```
-sudo apt install -y sqlite3
-```
-
-__Fedora:__
-```
-sudo dnf install sqlite
-```
-
-__Centos/Red Hat:__
-```
-sudo yum install -y libsqlite3x-devel.x86_64
+(https://www.nextflow.io/docs/latest/getstarted.html)[https://www.nextflow.io/docs/latest/getstarted.html]
 ```
 
 ### 10. GitHub Account
