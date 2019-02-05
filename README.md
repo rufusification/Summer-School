@@ -257,7 +257,7 @@ sudo yum install -y R
 
 **Windows**
 
-[https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
+[https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 **MacOS**
 ```
