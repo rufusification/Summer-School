@@ -6,7 +6,7 @@
 
 **Windows**
 
-`Putty`, `Ubuntu for Windows (WSL)`, `Git for Windows`, `Cygiwn` or simillar.
+`Putty`, `Ubuntu for Windows (WSL)`, `Git for Windows`, `Cygwin` or simillar.
 
 Preffered `Git for Windows`:
 
@@ -70,6 +70,7 @@ Registration required for downloading Docker Desktop.\
 
 **MacOS** 
 
+Registration required for downloading Docker Desktop.\
 [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
 
 **Linux**
@@ -77,7 +78,7 @@ Registration required for downloading Docker Desktop.\
 Install snap:\
 [https://docs.snapcraft.io/installing-snapd/6735](https://docs.snapcraft.io/installing-snapd/6735)
 
-snap package:
+snap package install:
 ```
 sudo snap install microk8s --classic
 ```
