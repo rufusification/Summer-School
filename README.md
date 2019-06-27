@@ -83,7 +83,7 @@ snap package install:
 sudo snap install microk8s --classic
 ```
 
-Install docker:\
+Install docker:
 ```
 curl -fsSL https://get.docker.com -o get-docker.sh
 sh get-docker.sh
