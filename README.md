@@ -68,12 +68,26 @@ __**Hyper-V has to be enabled!**__\
 Registration required for downloading Docker Desktop.\
 [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
 
+
+
 **MacOS** 
 
 Registration required for downloading Docker Desktop.\
 [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
 
 **Linux**
+
+Install docker:
+```
+curl -fsSL https://get.docker.com -o get-docker.sh
+sh get-docker.sh
+```
+
+Install docker-compose:
+```
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+```
 
 Install snap:\
 [https://docs.snapcraft.io/installing-snapd/6735](https://docs.snapcraft.io/installing-snapd/6735)
@@ -82,13 +96,6 @@ snap package install:
 ```
 sudo snap install microk8s --classic
 ```
-
-Install docker:
-```
-curl -fsSL https://get.docker.com -o get-docker.sh
-sh get-docker.sh
-```
-
 
 ### 4. VSCode
 
