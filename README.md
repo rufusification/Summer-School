@@ -160,6 +160,7 @@ sudo yum install java-1.8.0-openjdk-devel
 ### 7. NextFlow
 
 **Windows**
+
 Docker image will be provided.
 
 **MacOS / Linux**
