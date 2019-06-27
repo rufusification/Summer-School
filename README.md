@@ -6,7 +6,7 @@
 
 **Windows**
 
-`Putty`, `Ubuntu for Windows`, `Git for Windows`, `Cygiwn` or simillar.
+`Putty`, `Ubuntu for Windows`, `Git for Windows`, `Cygiwn`, `Windows Subsystem for Linux (WSL)` or simillar.
 
 Preffered `Git for Windows`:
 
