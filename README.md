@@ -89,7 +89,7 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.24.0/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
-Install snap:\
+Install snap (should be already installed on ubuntu):\
 [https://docs.snapcraft.io/installing-snapd/6735](https://docs.snapcraft.io/installing-snapd/6735)
 
 snap package install:
