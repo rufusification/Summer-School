@@ -92,7 +92,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 Install snap (should be already installed on ubuntu):\
 [https://docs.snapcraft.io/installing-snapd/6735](https://docs.snapcraft.io/installing-snapd/6735)
 
-snap package install:
+Install MicroK8s using snap:
 ```
 sudo snap install microk8s --classic
 ```
