@@ -83,6 +83,13 @@ snap package install:
 sudo snap install microk8s --classic
 ```
 
+Install docker:\
+```
+curl -fsSL https://get.docker.com -o get-docker.sh
+sh get-docker.sh
+```
+
+
 ### 4. VSCode
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
