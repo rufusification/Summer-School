@@ -1,4 +1,4 @@
-# CONTRA - Setup party
+# SUMMER SCHOOL - Setup party
 
 ## Required packaged
 
