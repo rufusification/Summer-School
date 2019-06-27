@@ -14,7 +14,7 @@ Preffered `Git for Windows`:
 
 **MacOS**
 
-Install `homebrew`:\
+Install `homebrew`:
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
