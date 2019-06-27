@@ -86,23 +86,6 @@ sudo snap install microk8s --classic
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-Install the `sftp` plugin:\
-[https://code.visualstudio.com/docs/editor/extension-gallery](https://code.visualstudio.com/docs/editor/extension-gallery)
-
-Configuration of `sftp` plugin:
-```
-{
-    "name": "aws-server",
-    "privateKeyPath": "~/.ssh/id_rsa",
-    "username": "ubuntu",
-    "host": "your-host-here",
-    "protocol": "sftp",
-    "port": 22,
-    "remotePath": "/home/ubuntu/contra-nextflow",
-    "uploadOnSave":true,
-    "syncOption.delete":true
-}
-```
 ### 5. Python
 
 **Windows**
