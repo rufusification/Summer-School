@@ -167,7 +167,78 @@ Docker image will be provided.
 [https://www.nextflow.io/docs/latest/getstarted.html](https://www.nextflow.io/docs/latest/getstarted.html)
 
 
-### 8. Google Account
+### 8. SQLLite3
+
+**Windows**
+
+[https://sqlite.org/download.html](https://sqlite.org/download.html)
+
+**MacOS**
+```
+brew install sqlite
+```
+
+**Linux**
+
+__Ubuntu/Debian based:__
+```
+sudo apt install -y sqlite3
+```
+
+__Fedora:__
+```
+sudo dnf install sqlite
+```
+
+__Centos/Red Hat:__
+```
+sudo yum install -y libsqlite3x-devel.x86_64
+```
+
+### 9. R
+
+**Windows**
+
+[https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
+
+**MacOS**
+```
+brew install r
+```
+
+**Linux**
+__Ubuntu/Debian based:__
+
+[https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04)
+
+__Fedora:__
+```
+sudo dnf install -y R
+```
+
+__Centos/Red Hat:__
+```
+sudo yum install -y R
+```
+
+### RStudio
+
+[https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
+
+**Windows**
+[https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe](https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe)
+
+**MacOS**
+[https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg] (https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg)
+
+**Linux**
+__Ubuntu 18:__
+[https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.1335-amd64.deb](https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.1335-amd64.deb)
+
+__Fedora/Red Hat:__
+[https://download1.rstudio.org/desktop/centos7/x86_64/rstudio-1.2.1335-x86_64.rpm](https://download1.rstudio.org/desktop/centos7/x86_64/rstudio-1.2.1335-x86_64.rpm)
+
+### 10. Google Account
 
 Create an account on Google:
 [https://support.google.com/accounts/answer/27441?hl=en](https://support.google.com/accounts/answer/27441?hl=en)
