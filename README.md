@@ -110,6 +110,7 @@ brew install python
 ```
 
 **Linux**
+
 __Ubuntu/Debian based:__
 ```
 sudo apt install -y python-dev
