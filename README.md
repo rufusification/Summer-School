@@ -229,7 +229,7 @@ sudo yum install -y R
 
 **MacOS**
 
-[https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg] (https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg)
+[https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg](https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg)
 
 **Linux**
 __Ubuntu 18:__
