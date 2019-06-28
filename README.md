@@ -203,6 +203,7 @@ brew install r
 ```
 
 **Linux**
+
 __Ubuntu/Debian based:__
 
 [https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04)
