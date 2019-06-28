@@ -109,7 +109,7 @@ https://www.python.org/downloads/windows/
 brew install python
 ```
 
-**Linux**
+**Linux:**
 
 __Ubuntu/Debian based:__
 ```
@@ -175,7 +175,7 @@ Docker image will be provided.
 brew install sqlite
 ```
 
-**Linux**
+**Linux:**
 
 __Ubuntu/Debian based:__
 ```
