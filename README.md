@@ -224,16 +224,20 @@ sudo yum install -y R
 [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 
 **Windows**
+
 [https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe](https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe)
 
 **MacOS**
+
 [https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg] (https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg)
 
 **Linux**
 __Ubuntu 18:__
+
 [https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.1335-amd64.deb](https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.1335-amd64.deb)
 
 __Fedora/Red Hat:__
+
 [https://download1.rstudio.org/desktop/centos7/x86_64/rstudio-1.2.1335-x86_64.rpm](https://download1.rstudio.org/desktop/centos7/x86_64/rstudio-1.2.1335-x86_64.rpm)
 
 ### 11. Google Account
