@@ -27,6 +27,7 @@ Built-in is just fine.
 ### 2. GIT
 
 **Windows:**
+
 `Git for Windows` provides GIT commands.
 
 **MacOS:**
