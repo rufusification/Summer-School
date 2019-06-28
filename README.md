@@ -202,7 +202,7 @@ sudo yum install -y libsqlite3x-devel.x86_64
 brew install r
 ```
 
-**Linux**
+**Linux:**
 
 __Ubuntu/Debian based:__
 
