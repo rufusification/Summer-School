@@ -17,8 +17,6 @@ Preffered `Git for Windows`:
 Install `homebrew`:
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-```
 brew cask install iTerm2
 ```
 
@@ -221,7 +219,7 @@ __Centos/Red Hat:__
 sudo yum install -y R
 ```
 
-### RStudio
+### 10. RStudio
 
 [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 
@@ -238,7 +236,7 @@ __Ubuntu 18:__
 __Fedora/Red Hat:__
 [https://download1.rstudio.org/desktop/centos7/x86_64/rstudio-1.2.1335-x86_64.rpm](https://download1.rstudio.org/desktop/centos7/x86_64/rstudio-1.2.1335-x86_64.rpm)
 
-### 10. Google Account
+### 11. Google Account
 
 Create an account on Google:
 [https://support.google.com/accounts/answer/27441?hl=en](https://support.google.com/accounts/answer/27441?hl=en)
