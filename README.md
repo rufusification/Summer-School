@@ -4,7 +4,7 @@
 
 ### 1. Terminal 
 
-**Windows**
+**Windows:**
 
 `Putty`, `Ubuntu for Windows (WSL)`, `Git for Windows`, `Cygwin` or simillar.
 
@@ -12,7 +12,7 @@ Preffered `Git for Windows`:
 
 [https://github.com/git-for-windows/git/releases/download/v2.20.1.windows.1/Git-2.20.1-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.20.1.windows.1/Git-2.20.1-64-bit.exe)
 
-**MacOS**
+**MacOS:**
 
 Install `homebrew`:
 ```
@@ -20,21 +20,21 @@ Install `homebrew`:
 brew cask install iTerm2
 ```
 
-**Linux** 
+**Linux:** 
 
 Built-in is just fine.
 
 ### 2. GIT
 
-**Windows**
+**Windows:**
 `Git for Windows` provides GIT commands.
 
-**MacOS**
+**MacOS:**
 ```
 brew install git
 ```
 
-**Linux**
+**Linux:**
 
 Depends on distro: 
 
@@ -58,7 +58,7 @@ sudo yum install -y git
 
 ### 3. Docker + Kubernetes
 
-**Windows**
+**Windows:**
 
 __**Hyper-V has to be enabled!**__\
 [https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
@@ -68,12 +68,12 @@ Registration required for downloading Docker Desktop.\
 
 
 
-**MacOS** 
+**MacOS:** 
 
 Registration required for downloading Docker Desktop.\
 [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
 
-**Linux**
+**Linux:**
 
 Install docker:
 ```
@@ -100,12 +100,12 @@ sudo snap install microk8s --classic
 
 ### 5. Python
 
-**Windows**
+**Windows:**
 ```
 https://www.python.org/downloads/windows/
 ```
 
-**MacOS**
+**MacOS:**
 ```
 brew install python
 ```
@@ -128,17 +128,17 @@ sudo yum install -y python python-devel
 
 ### 6. Java
 
-**Windows**
+**Windows:**
 
 [https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-**MacOS**
+**MacOS:**
 ```
 brew tap caskroom/versions
 brew cask install java8
 ```
 
-**Linux**
+**Linux:**
 __Ubuntu/Debian based:__
 ```
 sudo apt install -y openjdk-8-jdk
@@ -156,22 +156,22 @@ sudo yum install java-1.8.0-openjdk-devel
 
 ### 7. NextFlow
 
-**Windows**
+**Windows:**
 
 Docker image will be provided.
 
-**MacOS / Linux**
+**MacOS / Linux:**
 
 [https://www.nextflow.io/docs/latest/getstarted.html](https://www.nextflow.io/docs/latest/getstarted.html)
 
 
 ### 8. SQLLite3
 
-**Windows**
+**Windows:**
 
 [https://sqlite.org/download.html](https://sqlite.org/download.html)
 
-**MacOS**
+**MacOS:**
 ```
 brew install sqlite
 ```
@@ -195,11 +195,11 @@ sudo yum install -y libsqlite3x-devel.x86_64
 
 ### 9. R
 
-**Windows**
+**Windows:**
 
 [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 
-**MacOS**
+**MacOS:**
 ```
 brew install r
 ```
@@ -223,11 +223,11 @@ sudo yum install -y R
 
 [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 
-**Windows**
+**Windows:**
 
 [https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe](https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe)
 
-**MacOS**
+**MacOS:**
 
 [https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg](https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg)
 
