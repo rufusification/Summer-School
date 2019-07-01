@@ -35,7 +35,7 @@ brew install python
 
 ```
 brew tap caskroom/versions
-brew cask install java8
+brew cask install java
 ```
 
 ### 7. NextFlow
