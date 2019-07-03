@@ -113,7 +113,7 @@ brew install python
 
 __Ubuntu/Debian based:__
 ```
-sudo apt install -y python-dev
+sudo apt install -y python3-dev
 ```
 
 __Fedora:__
