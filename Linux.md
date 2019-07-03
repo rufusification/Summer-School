@@ -57,7 +57,7 @@ sudo snap install microk8s --classic
 
 __Ubuntu/Debian based:__
 ```
-sudo apt install -y python-dev
+sudo apt install -y python3-dev
 ```
 
 __Fedora:__
